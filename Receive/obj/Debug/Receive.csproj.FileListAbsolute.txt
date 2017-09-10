@@ -1,0 +1,10 @@
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\bin\Debug\Receive.exe.config
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\bin\Debug\Receive.exe
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\bin\Debug\Receive.pdb
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\obj\Debug\Receive.exe
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\Receive\obj\Debug\Receive.pdb

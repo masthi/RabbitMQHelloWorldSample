@@ -1,0 +1,10 @@
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\obj\Debug\RabbitMQHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\bin\Debug\RabbitMQHelloWorld.exe.config
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\bin\Debug\RabbitMQHelloWorld.exe
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\bin\Debug\RabbitMQHelloWorld.pdb
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\obj\Debug\RabbitMQHelloWorld.exe
+C:\Users\Masthan.Rao\Documents\work\RabbitMQHelloWorld\RabbitMQHelloWorld\obj\Debug\RabbitMQHelloWorld.pdb
